@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+nltk
+scikit-learn
+sentence-transformers
+bert-score
+rouge-score
+fuzzywuzzy
+plotly
+google-generativeai
+google-genai
+python-dotenv
+pathlib
+typing-extensions
+agno==1.1.11
+python-Levenshtein==0.27.1
