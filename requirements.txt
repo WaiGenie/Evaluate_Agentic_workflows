@@ -15,3 +15,6 @@ pathlib
 typing-extensions
 agno==1.1.11
 python-Levenshtein==0.27.1
+
+
+i had a task assinged by my manger the whole content what i got he is trying to develop a tool to test voice bancking agent - the first thing he wants to extract intent from the audio for example - user input (please transerr my funds to xyz in an hour) - ouput -"transfur funds" -  or may be vise versa from intent to sentance creation for sample i want 100 of them - i had a excel sheet related to intents - from those he wants to convert the bot message into different tone + languages so that bot can replay back - not sure if its vice versa - can you help me brain strom this use case user input audio SST - extaxt text and intenet with sentimental anslysis - posivite negative nutral - best use of nlp modles please serach web and lets do the best   and give me step by step approach to achive this task please make sure we do the best
